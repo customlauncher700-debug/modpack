@@ -12,6 +12,13 @@
   },
   "launcherVersion": 1,
   "backgroundImageUrl": "",
-  "notices": [],
+  "notices": [
+    {
+      "id": "bb847fd4-c8d2-471a-a5eb-3db99d6cc732",
+      "title": ".",
+      "body": ".",
+      "createdAt": "2026-08-17T06:25:52.076379900+00:00"
+    }
+  ],
   "bugReportWebhookUrl": null
 }
