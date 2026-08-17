@@ -1,1 +1,17 @@
-
+{
+  "serverAddress": "",
+  "serverPort": 25565,
+  "modpack": {
+    "version": 0,
+    "displayName": "모드팩",
+    "downloadUrl": "",
+    "checksumSha256": "",
+    "minecraftVersion": "1.21.1",
+    "loader": "fabric",
+    "loaderVersion": ""
+  },
+  "launcherVersion": 1,
+  "backgroundImageUrl": "",
+  "notices": [],
+  "bugReportWebhookUrl": null
+}
