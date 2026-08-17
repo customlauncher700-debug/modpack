@@ -2,10 +2,10 @@
   "serverAddress": "",
   "serverPort": 25565,
   "modpack": {
-    "version": 0,
+    "version": 1,
     "displayName": "모드팩",
-    "downloadUrl": "",
-    "checksumSha256": "",
+    "downloadUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v1/modpack.zip",
+    "checksumSha256": "654e60dfab57a176d9816a1b073a4e0e459d2d1570910a2f240a35fb1b44df8c",
     "minecraftVersion": "1.21.1",
     "loader": "fabric",
     "loaderVersion": ""
