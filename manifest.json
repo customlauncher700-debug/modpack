@@ -1,6 +1,6 @@
 {
-  "serverAddress": "",
-  "serverPort": 25565,
+  "serverAddress": "700sever.mods.kr",
+  "serverPort": 26965,
   "modpack": {
     "version": 1,
     "displayName": "모드팩",
