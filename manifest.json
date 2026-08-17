@@ -25,6 +25,6 @@
   ],
   "minimumLauncherVersion": "",
   "links": [],
-  "loginBackgroundUrl": "",
+  "loginBackgroundUrl": "https://raw.githubusercontent.com/customlauncher700-debug/modpack/main/background-login.png",
   "backgroundDim": 0
 }
