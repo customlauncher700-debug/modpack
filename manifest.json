@@ -19,7 +19,9 @@
       "createdAt": "2026-08-18T11:30:18.464282100+00:00"
     }
   ],
-  "adminUuids": [],
+  "adminUuids": [
+    "849bc19dff4b4322841a951727988b77"
+  ],
   "minimumLauncherVersion": "",
   "links": [
     {
