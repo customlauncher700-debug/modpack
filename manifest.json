@@ -11,7 +11,14 @@
     "loaderVersion": "47.4.0"
   },
   "backgroundImageUrl": "https://raw.githubusercontent.com/customlauncher700-debug/modpack/main/background-main.png?v=1786966199",
-  "notices": [],
+  "notices": [
+    {
+      "id": "d0d407a0-3060-4854-ac1a-5f9d60e8c479",
+      "title": "test",
+      "body": "test용 공지",
+      "createdAt": "2026-08-18T11:30:18.464282100+00:00"
+    }
+  ],
   "adminUuids": [],
   "minimumLauncherVersion": "",
   "links": [
