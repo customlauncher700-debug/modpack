@@ -23,9 +23,14 @@
   "minimumLauncherVersion": "",
   "links": [
     {
-      "id": "e999fc07-fadf-47bc-ad2f-b129d8b436f9",
+      "id": "373e4850-1399-4776-a505-e61fd276f884",
       "label": "디스코드",
       "url": "https://discord.com/invite/b5djUUZwXY"
+    },
+    {
+      "id": "a78090eb-39ba-465d-a6a1-36b7390cea96",
+      "label": "유튜브",
+      "url": "https://www.youtube.com/@%EB%9F%AC%EB%85%B8%EC%9A%B0"
     }
   ],
   "loginBackgroundUrl": "https://raw.githubusercontent.com/customlauncher700-debug/modpack/main/background-login.png?v=1786966192",
