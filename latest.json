@@ -1,0 +1,11 @@
+{
+  "notes": "테스트",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcWxMeW0xUmN6Rk9FNkcydklGVGJKdkhWU05mbTRVa0NlMTRoRWV2Nmk0MEloSFVVekM1MXhEM05JaEdjeVcvZ0tsY24zT2dHMjUzTWFDS2ZycHM1UTNSZlQ2V3lPTndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDUxOTQxCWZpbGU665+s64W47JqwIOufsOyymF8xLjAuMF94NjQtc2V0dXAuZXhlCmpPbXRuNEZmOW5rbDJ6dXVnWDk1L1Rkbm50TnJLTlFsSWJwUlNjMDBXOUVwbDNHQysybjhxWHh6eCtyZW9hZVhSLy9YZzZPY25EKzBnMTZtWlEwS0F3PT0K",
+      "url": "https://github.com/customlauncher700-debug/modpack/releases/download/launcher-v1.0.0/_1.0.0_x64-setup.exe"
+    }
+  },
+  "pub_date": "2026-08-18T11:31:15.218482300+00:00",
+  "version": "1.0.0"
+}
