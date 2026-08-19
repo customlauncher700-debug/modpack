@@ -2,10 +2,10 @@
   "serverAddress": "test서버주소",
   "serverPort": 26965,
   "modpack": {
-    "version": 1,
+    "version": 2,
     "displayName": "모드팩",
-    "downloadUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v1/modpack.zip",
-    "checksumSha256": "654e60dfab57a176d9816a1b073a4e0e459d2d1570910a2f240a35fb1b44df8c",
+    "downloadUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v2/modpack.zip",
+    "checksumSha256": "f0af247098855aa57d78729ccb047b274715a722f3afa7bf5bc09f6d36230d78",
     "minecraftVersion": "1.20.1",
     "loader": "forge",
     "loaderVersion": "47.4.0"
