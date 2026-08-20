@@ -12,14 +12,7 @@
     "loaderVersion": "47.4.10"
   },
   "backgroundImageUrl": "https://raw.githubusercontent.com/customlauncher700-debug/modpack/main/background-main.png?v=1786966199",
-  "notices": [
-    {
-      "id": "971ebf2d-e22b-4de6-9ba1-a0382eba8ccc",
-      "title": "RENDER TEST",
-      "body": "<b>BOLD</b> <i>ITALIC</i> plain-text",
-      "createdAt": "2026-08-20T10:29:00.816442500+00:00"
-    }
-  ],
+  "notices": [],
   "adminUuids": [
     "849bc19dff4b4322841a951727988b77"
   ],
