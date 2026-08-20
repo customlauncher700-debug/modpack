@@ -30,5 +30,9 @@
     }
   ],
   "loginBackgroundUrl": "https://raw.githubusercontent.com/customlauncher700-debug/modpack/main/background-login.png?v=1786966192",
-  "backgroundDim": 20
+  "backgroundDim": 20,
+  "telemetry": {
+    "enabled": false,
+    "dsn": "https://5322f41c16988784f229fef864e40116@o4511943528349696.ingest.us.sentry.io/4511943563149312"
+  }
 }
