@@ -1,6 +1,6 @@
 {
-  "serverAddress": "test서버주소",
-  "serverPort": 26965,
+  "serverAddress": "lunou.ggm.kr",
+  "serverPort": 25565,
   "modpack": {
     "version": 4,
     "displayName": "테스트2",
