@@ -2,10 +2,10 @@
   "notes": "",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcWxMeW0xUmN6RkphVE5PeTEwdjlsMmRsaENmQTg4QmR5cy9mc1FPVVZIL0I1RzJLWXk1UEFTVDFoeFRmOTVnSWRvcEVSdkZWVVNRb0ZMc3Jjc29pclRadm1NUFdxVEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MjY0MjMyCWZpbGU665+s64W47JqwIOufsOyymF8xLjkuMF94NjQtc2V0dXAuZXhlCktlczdCVDFiR3U4RTh2VG5sOHBUR2QyY0J3Q3BBaVN1c0pUdC85U2NrK21OMWpyaHRNZjUweE5iUEl4TGNwK05IVHZNd1lZL2tKU0xZT2JtS2hveER3PT0K",
-      "url": "https://github.com/customlauncher700-debug/modpack/releases/download/launcher-v1.9.0/launcher_1.9.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcWxMeW0xUmN6Rk4vK2tCL25yQkJSWWU0Vkk1bHVrRGMyUjcvdFc5YnIxNVN6WnB4MktsbUhGQnpzb0RVYlF5WERDbTVCNUp1dERCUER5TitadmlXL3ZDMncxaFNrUHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzA4MjYyCWZpbGU665+s64W47JqwIOufsOyymF8xLjEwLjBfeDY0LXNldHVwLmV4ZQpVdm42ekFFNlU5eitOT3BiVjRXUjRwNXFBNGs1alRvaHR5YmpNdHZBL0tOak42RVk0TnB0WGgwNUZpLzNjZllNcHhPMDRNTVplcVJnSGxhenNuUlNCdz09Cg==",
+      "url": "https://github.com/customlauncher700-debug/modpack/releases/download/launcher-v1.10.0/launcher_1.10.0_x64-setup.exe"
     }
   },
-  "pub_date": "2026-08-20T22:22:43.529742400+00:00",
-  "version": "1.9.0"
+  "pub_date": "2026-08-21T10:42:56.717493+00:00",
+  "version": "1.10.0"
 }
