@@ -9,14 +9,15 @@
     "checksumSha256": "f29b8b595b2393271fa14c84fa1b4c80d87f9c918960f64240cd7f6ab5f1fbf4",
     "minecraftVersion": "1.20.1",
     "loader": "forge",
-    "loaderVersion": "47.4.10"
+    "loaderVersion": "47.4.10",
+    "recommendedRamMb": null
   },
   "backgroundImageUrl": "https://raw.githubusercontent.com/customlauncher700-debug/modpack/main/background-main.png?v=1786966199",
   "notices": [],
   "adminUuids": [
     "849bc19dff4b4322841a951727988b77"
   ],
-  "minimumLauncherVersion": "1.9.0",
+  "minimumLauncherVersion": "1.13.0",
   "links": [
     {
       "id": "373e4850-1399-4776-a505-e61fd276f884",
