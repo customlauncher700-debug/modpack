@@ -2,15 +2,15 @@
   "serverAddress": "lunou.ggm.kr",
   "serverPort": 25565,
   "modpack": {
-    "version": 5,
-    "displayName": "러노우 비행기 테스트용",
-    "iconUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v5/icon.jpg",
-    "downloadUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v5/modpack.zip",
-    "checksumSha256": "543b097e47ad2c936836c5e45a0407a5549cf1ddd933a1901d34ef78c18490bd",
+    "version": 6,
+    "displayName": "로컬 호스트 테스트용",
+    "iconUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v6/icon.jpg",
+    "downloadUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v6/modpack.zip",
+    "checksumSha256": "0049955cc91e1716f5eefd8056986224d8bd021ba4b81949d3a0219f6483bd33",
     "minecraftVersion": "1.20.1",
     "loader": "forge",
-    "loaderVersion": "47.4.20",
-    "recommendedRamMb": 7648
+    "loaderVersion": "47.4.10",
+    "recommendedRamMb": 4096
   },
   "backgroundImageUrl": "https://raw.githubusercontent.com/customlauncher700-debug/modpack/main/background-main.png?v=1786966199",
   "notices": [],
