@@ -15,6 +15,12 @@
   "backgroundImageUrl": "https://raw.githubusercontent.com/customlauncher700-debug/modpack/main/background-main.png?v=1786966199",
   "notices": [
     {
+      "id": "8f40b717-4b52-493c-8c96-ca6c1e2f6ffd",
+      "title": "개발 공지",
+      "body": "v1.32.0-시참 규칙 동의 기능,관리자 편의성 기능 추가",
+      "createdAt": "2026-08-22T10:36:57.802765800+00:00"
+    },
+    {
       "id": "f14d254c-44b3-4d8d-9d4e-730812fd9295",
       "title": "개발 공지",
       "body": "v1.30.0-마지막 실행 로그 안내를 설정에서 \non/off가 가능하도록 추가하였습니다",
