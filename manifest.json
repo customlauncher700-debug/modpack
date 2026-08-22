@@ -2,15 +2,15 @@
   "serverAddress": "lunou.ggm.kr",
   "serverPort": 25565,
   "modpack": {
-    "version": 6,
-    "displayName": "러노우 비행기전",
-    "iconUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v6/icon.jpg",
-    "downloadUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v6/modpack.zip",
-    "checksumSha256": "a38a7ded773816b06f86889ccbdb4438a41611273246bd0e39e9cae0db0b21ae",
+    "version": 7,
+    "displayName": "업로드 테스트용",
+    "iconUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v7/icon.jpg",
+    "downloadUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v7/modpack.zip",
+    "checksumSha256": "c8d8860d5de937768a7490f5056bb9e1be1940384a8011ab44dc559843c99433",
     "minecraftVersion": "1.20.1",
     "loader": "forge",
-    "loaderVersion": "47.4.20",
-    "recommendedRamMb": 7648
+    "loaderVersion": "47.4.10",
+    "recommendedRamMb": 4096
   },
   "backgroundImageUrl": "https://raw.githubusercontent.com/customlauncher700-debug/modpack/main/background-main.png?v=1786966199",
   "notices": [
@@ -27,7 +27,7 @@
       "createdAt": "2026-08-22T09:02:10.817695+00:00"
     }
   ],
-  "lastModpackVersion": 6,
+  "lastModpackVersion": 7,
   "bannedAccounts": [],
   "adminUuids": [
     "849bc19dff4b4322841a951727988b77",
