@@ -13,7 +13,14 @@
     "recommendedRamMb": 7648
   },
   "backgroundImageUrl": "https://raw.githubusercontent.com/customlauncher700-debug/modpack/main/background-main.png?v=1786966199",
-  "notices": [],
+  "notices": [
+    {
+      "id": "b55d4355-ebbb-47a3-9472-ea7435391944",
+      "title": "개발 공지",
+      "body": "v1.29.0-모드 무결성 검사 기능 추가",
+      "createdAt": "2026-08-22T09:02:10.817695+00:00"
+    }
+  ],
   "lastModpackVersion": 6,
   "bannedAccounts": [
     {
