@@ -22,14 +22,7 @@
     }
   ],
   "lastModpackVersion": 6,
-  "bannedAccounts": [
-    {
-      "uuidHash": "ba4bcf7c1751f76afcee20e93916f9d3cc2d68adaaa79dce28326f39b82bc153",
-      "scope": "reportOnly",
-      "reason": "테스트",
-      "bannedAt": "2026-08-22T05:46:11.822598900+00:00"
-    }
-  ],
+  "bannedAccounts": [],
   "adminUuids": [
     "849bc19dff4b4322841a951727988b77",
     "5158c62bb67d4c34b6f3e7418963b533"
