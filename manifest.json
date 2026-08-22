@@ -15,6 +15,12 @@
   "backgroundImageUrl": "https://raw.githubusercontent.com/customlauncher700-debug/modpack/main/background-main.png?v=1786966199",
   "notices": [
     {
+      "id": "65ffe482-ce44-403b-9ca1-bdf345816dff",
+      "title": "개발 공지",
+      "body": "v1.35.0-디스코드에 러노우 런처 활동 표시",
+      "createdAt": "2026-08-22T14:10:36.456311500+00:00"
+    },
+    {
       "id": "cfdad086-4f85-430f-9693-e333cf6c02c3",
       "title": "개발 공지",
       "body": "v1.33.0-일부 UI수정",
