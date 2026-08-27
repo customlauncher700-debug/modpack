@@ -2,15 +2,15 @@
   "serverAddress": "lunou.ggm.kr",
   "serverPort": 25565,
   "modpack": {
-    "version": 13,
+    "version": 15,
     "displayName": "러노우 시참용 메인 모드팩",
-    "iconUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v13/icon.jpg",
-    "downloadUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v13/modpack.zip",
-    "checksumSha256": "773a6e4a80ab407e3a97137478c81f553a4f356ae6549f49c0c524146d3bd815",
+    "iconUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v15/icon.jpg",
+    "downloadUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v15/modpack.zip",
+    "checksumSha256": "04b9f6b8206800b343665e869134325641a6ffad579aff0ae9674f45aca1b43c",
     "minecraftVersion": "1.20.1",
     "loader": "forge",
     "loaderVersion": "47.4.20",
-    "recommendedRamMb": 6000
+    "recommendedRamMb": 6640
   },
   "backgroundImageUrl": "https://raw.githubusercontent.com/customlauncher700-debug/modpack/main/background-main.png?v=1786966199",
   "notices": [
@@ -57,7 +57,7 @@
       "createdAt": "2026-08-22T09:02:10.817695+00:00"
     }
   ],
-  "lastModpackVersion": 14,
+  "lastModpackVersion": 15,
   "bannedAccounts": [],
   "adminUuids": [
     "849bc19dff4b4322841a951727988b77",
