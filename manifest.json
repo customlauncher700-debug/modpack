@@ -15,6 +15,12 @@
   "backgroundImageUrl": "https://raw.githubusercontent.com/customlauncher700-debug/modpack/main/background-main.png?v=1786966199",
   "notices": [
     {
+      "id": "70580167-5d5a-4184-ba6d-c03c31ddcdcd",
+      "title": "안내",
+      "body": "런처 정식출시!",
+      "createdAt": "2026-08-27T12:34:54.599430800+00:00"
+    },
+    {
       "id": "394600a2-0b9e-40c2-a748-829208f60f2a",
       "title": "개발 공지",
       "body": "v1.38.0-스킨 설정기능 추가",
