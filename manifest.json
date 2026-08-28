@@ -11,7 +11,8 @@
     "loader": "forge",
     "loaderVersion": "47.4.20",
     "recommendedRamMb": 6640,
-    "displayVersion": "15-1"
+    "displayVersion": "15-1",
+    "patch": null
   },
   "backgroundImageUrl": "https://raw.githubusercontent.com/customlauncher700-debug/modpack/main/background-main.png?v=1786966199",
   "notices": [
@@ -64,7 +65,7 @@
     "849bc19dff4b4322841a951727988b77",
     "5158c62bb67d4c34b6f3e7418963b533"
   ],
-  "minimumLauncherVersion": "1.50.0",
+  "minimumLauncherVersion": "1.51.0",
   "links": [
     {
       "id": "373e4850-1399-4776-a505-e61fd276f884",
