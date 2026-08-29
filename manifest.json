@@ -17,6 +17,12 @@
   "backgroundImageUrl": "https://raw.githubusercontent.com/customlauncher700-debug/modpack/main/background-main.png?v=1786966199",
   "notices": [
     {
+      "id": "11a4becf-e614-493a-9d5e-1d82779b103f",
+      "title": "개발 공지",
+      "body": "v1.57.0-저장 위치 변경 기능 추가",
+      "createdAt": "2026-08-29T09:42:00.474587+00:00"
+    },
+    {
       "id": "70580167-5d5a-4184-ba6d-c03c31ddcdcd",
       "title": "안내",
       "body": "런처 정식출시!",
