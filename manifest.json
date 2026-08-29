@@ -6,13 +6,19 @@
     "displayName": "러노우 시참용 메인 모드팩",
     "iconUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v15/icon.jpg",
     "downloadUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v15/modpack.zip",
-    "checksumSha256": "2dac7e3d1e77ff38356cd44b1b84bed539cc68dcab85ce02d11a7b82eec62308",
+    "checksumSha256": "8b3e76afae9320c9048a10d3bc1ba52fbb130b268a419823c74677e76694db62",
     "minecraftVersion": "1.20.1",
     "loader": "forge",
     "loaderVersion": "47.4.20",
     "recommendedRamMb": 6640,
-    "displayVersion": "15-2",
-    "patch": null
+    "displayVersion": "15-3",
+    "patch": {
+      "base": "15-2",
+      "downloadUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v15/patch.zip",
+      "checksumSha256": "fd9585d6d37bcefe7ad14699e578ec5527429aa601ebe177a302b43fcad39d0f",
+      "deleted": [],
+      "sizeBytes": 1108433
+    }
   },
   "backgroundImageUrl": "https://raw.githubusercontent.com/customlauncher700-debug/modpack/main/background-main.png?v=1786966199",
   "notices": [
