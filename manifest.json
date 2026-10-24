@@ -26,6 +26,12 @@
   "backgroundImageUrl": "https://raw.githubusercontent.com/customlauncher700-debug/modpack/main/background-main.png?v=1786966199",
   "notices": [
     {
+      "id": "de3b2351-3104-46d6-be3e-a251a995ffdc",
+      "title": "개발공지",
+      "body": "다운로드 버그 수정 및 최적화",
+      "createdAt": "2026-10-24T19:06:16.096345100+00:00"
+    },
+    {
       "id": "a0f624c8-b4ca-49a3-818b-d10a4a6bf953",
       "title": "개발공지",
       "body": "압축 해제 속도 개선",
