@@ -95,19 +95,14 @@
   "minimumLauncherVersion": "1.68.0",
   "links": [
     {
-      "id": "606e2eeb-d050-43ee-994d-3f2e829f9019",
+      "id": "30938aa0-8605-490d-b493-f81f7d9b527e",
       "label": "디스코드",
       "url": "https://discord.com/invite/b5djUUZwXY"
     },
     {
-      "id": "1773d174-4c0e-4292-96c7-18262941c187",
+      "id": "86bf831c-82be-453c-9341-9598a6b84e5a",
       "label": "유튜브",
       "url": "https://www.youtube.com/@%EB%9F%AC%EB%85%B8%EC%9A%B0"
-    },
-    {
-      "id": "12fe2ba1-f773-4f9c-8db1-54b6a9d17ba0",
-      "label": "치치직",
-      "url": "https://chzzk.naver.com/87d49bbf0e686339bcf0e26239d2baae"
     }
   ],
   "loginBackgroundUrl": "https://raw.githubusercontent.com/customlauncher700-debug/modpack/main/background-login.png?v=1786966192",
