@@ -26,6 +26,12 @@
   "backgroundImageUrl": "https://raw.githubusercontent.com/customlauncher700-debug/modpack/main/background-main.png?v=1786966199",
   "notices": [
     {
+      "id": "a0f624c8-b4ca-49a3-818b-d10a4a6bf953",
+      "title": "개발공지",
+      "body": "압축 해제 속도 개선",
+      "createdAt": "2026-10-24T17:18:26.253303100+00:00"
+    },
+    {
       "id": "11a4becf-e614-493a-9d5e-1d82779b103f",
       "title": "개발 공지",
       "body": "v1.57.0-저장 위치 변경 기능 추가",
