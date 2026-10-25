@@ -7,21 +7,13 @@
     "displayName": "좀비 호텔 모드팩",
     "iconUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v25/icon.png",
     "downloadUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v25/modpack.zip",
-    "checksumSha256": "836c7bfc9c5ecb0a5d4a06a4d82fb04378e3d0e5934a2801a04ea6a3513069e5",
+    "checksumSha256": "7b07f5ce060d5f95d81c8d92ccc5e0979e4dd1c52f4992fdaf0a2ed501418b54",
     "minecraftVersion": "1.20.1",
     "loader": "forge",
     "loaderVersion": "47.4.26",
     "recommendedRamMb": 6000,
-    "displayVersion": "25-2",
-    "patch": {
-      "base": "25-1",
-      "downloadUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v25/patch.zip",
-      "checksumSha256": "98c4b6ee237fbad1806bdcf873242e5110f53c78f19ce328c7db0bcb6805f87c",
-      "deleted": [
-        "mods/bazdeath.jar.enc"
-      ],
-      "sizeBytes": 48416
-    }
+    "displayVersion": "25-3",
+    "patch": null
   },
   "backgroundImageUrl": "https://raw.githubusercontent.com/customlauncher700-debug/modpack/main/background-main.png?v=1786966199",
   "notices": [
