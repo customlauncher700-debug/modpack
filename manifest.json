@@ -7,13 +7,23 @@
     "displayName": "좀비 호텔 모드팩",
     "iconUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v25/icon.png",
     "downloadUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v25/modpack.zip",
-    "checksumSha256": "7b07f5ce060d5f95d81c8d92ccc5e0979e4dd1c52f4992fdaf0a2ed501418b54",
+    "checksumSha256": "46dc20fb51190cfe243a8e5842d3ee6a556bfc73af3c2ac3e164172f5da83f63",
     "minecraftVersion": "1.20.1",
     "loader": "forge",
     "loaderVersion": "47.4.26",
     "recommendedRamMb": 6000,
-    "displayVersion": "25-3",
-    "patch": null
+    "displayVersion": "25-4",
+    "patch": {
+      "base": "25-3",
+      "downloadUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v25/patch.zip",
+      "checksumSha256": "e60ea4aacc2ac4b332f08f619e91602e68bdca00294dd4356da7dfd098ea40c9",
+      "deleted": [
+        "mods/mc-talkie-0.1.0+1.20.1.jar",
+        "mods/superb-horizons-0.1.1-occlusion.jar",
+        "mods/walkietalkie-forge-1.20.1-1.3.0.jar"
+      ],
+      "sizeBytes": 1787566
+    }
   },
   "backgroundImageUrl": "https://raw.githubusercontent.com/customlauncher700-debug/modpack/main/background-main.png?v=1786966199",
   "notices": [
