@@ -3,27 +3,18 @@
   "serverPort": 0,
   "serverEndpoint": "v1.rZMhnQ1aBNUaMcFcERkWqu0hhBRo36LD3TJwiEejCUY",
   "modpack": {
-    "version": 25,
-    "displayName": "좀비 호텔 모드팩",
-    "iconUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v25/icon.png",
-    "downloadUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v25/modpack.zip",
-    "checksumSha256": "46dc20fb51190cfe243a8e5842d3ee6a556bfc73af3c2ac3e164172f5da83f63",
+    "version": 26,
+    "displayName": "러노우 모드팩",
+    "iconUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v26/icon.jpg",
+    "downloadUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v26/modpack.zip",
+    "checksumSha256": "b8a524e76216566fa25cea610acb2d14e6c8e874401bbdb7ae8be7fa65e51ef0",
     "minecraftVersion": "1.20.1",
     "loader": "forge",
-    "loaderVersion": "47.4.26",
+    "loaderVersion": "47.4.28",
     "recommendedRamMb": 6000,
-    "displayVersion": "25-4",
-    "patch": {
-      "base": "25-3",
-      "downloadUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v25/patch.zip",
-      "checksumSha256": "e60ea4aacc2ac4b332f08f619e91602e68bdca00294dd4356da7dfd098ea40c9",
-      "deleted": [
-        "mods/mc-talkie-0.1.0+1.20.1.jar",
-        "mods/superb-horizons-0.1.1-occlusion.jar",
-        "mods/walkietalkie-forge-1.20.1-1.3.0.jar"
-      ],
-      "sizeBytes": 1787566
-    }
+    "displayVersion": null,
+    "patch": null,
+    "packId": "pack:cbbb86a5-06bf-44f4-acd5-71e543f61d90"
   },
   "backgroundImageUrl": "https://raw.githubusercontent.com/customlauncher700-debug/modpack/main/background-main.png?v=1786966199",
   "notices": [
@@ -88,7 +79,7 @@
       "createdAt": "2026-08-22T09:02:10.817695+00:00"
     }
   ],
-  "lastModpackVersion": 25,
+  "lastModpackVersion": 26,
   "bannedAccounts": [],
   "adminUuids": [
     "849bc19dff4b4322841a951727988b77",
