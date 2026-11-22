@@ -7,18 +7,18 @@
     "displayName": "러노우 모드팩",
     "iconUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v26/icon.jpg",
     "downloadUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v26/modpack.zip",
-    "checksumSha256": "f2c517db8b2991f48a5dd4e6f5308f67140b226acf84d3527cca038b1e792ea8",
+    "checksumSha256": "b33d8da957c2be560b963ba8c71c71a3e10bf6bfca780ed5a52bb382ba28fd4d",
     "minecraftVersion": "1.20.1",
     "loader": "forge",
     "loaderVersion": "47.4.28",
     "recommendedRamMb": 6000,
-    "displayVersion": "26-3",
+    "displayVersion": "26-4",
     "patch": {
-      "base": "26-2",
+      "base": "26-3",
       "downloadUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v26/patch.zip",
-      "checksumSha256": "805709237bfd146596c90ce6b28b65fe76a88947c9a6c01e6b9867f778072a60",
+      "checksumSha256": "e61d2fceb1b1815d58a1ee0d48199dbd683d1f1952ed136fd3a53cc244070a14",
       "deleted": [],
-      "sizeBytes": 61715
+      "sizeBytes": 1105210
     },
     "packId": "pack:cbbb86a5-06bf-44f4-acd5-71e543f61d90"
   },
