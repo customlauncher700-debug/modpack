@@ -7,18 +7,20 @@
     "displayName": "러노우 모드팩",
     "iconUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v26/icon.jpg",
     "downloadUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v26/modpack.zip",
-    "checksumSha256": "b33d8da957c2be560b963ba8c71c71a3e10bf6bfca780ed5a52bb382ba28fd4d",
+    "checksumSha256": "1ec61b225c5c559154d0c3d8b0a9c7e3d526a02804af9e3ff1d336c98120e210",
     "minecraftVersion": "1.20.1",
     "loader": "forge",
     "loaderVersion": "47.4.28",
     "recommendedRamMb": 6000,
-    "displayVersion": "26-4",
+    "displayVersion": "26-5",
     "patch": {
-      "base": "26-3",
+      "base": "26-4",
       "downloadUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v26/patch.zip",
-      "checksumSha256": "e61d2fceb1b1815d58a1ee0d48199dbd683d1f1952ed136fd3a53cc244070a14",
-      "deleted": [],
-      "sizeBytes": 1105210
+      "checksumSha256": "7d7c44478bf9cab8a75cc7533c31dfebeb2650b59762d43e39fb5dc3ef4b953d",
+      "deleted": [
+        "mods/BAZVillageMarket-1.20.1-0.12.0.jar"
+      ],
+      "sizeBytes": 322054
     },
     "packId": "pack:cbbb86a5-06bf-44f4-acd5-71e543f61d90"
   },
