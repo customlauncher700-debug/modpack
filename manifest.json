@@ -7,13 +7,21 @@
     "displayName": "러노우 모드팩",
     "iconUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v26/icon.jpg",
     "downloadUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v26/modpack.zip",
-    "checksumSha256": "a5a235daf5de66fab464fa59d3aba2c18033db0aaf36554e4051da5a1a7774e6",
+    "checksumSha256": "96bfbcce2bf30543b465bb56803665bc8820a065b28358b85ea06c9659793d60",
     "minecraftVersion": "1.20.1",
     "loader": "forge",
     "loaderVersion": "47.4.28",
     "recommendedRamMb": 6000,
-    "displayVersion": "26-7",
-    "patch": null,
+    "displayVersion": "26-8",
+    "patch": {
+      "base": "26-7",
+      "downloadUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v26/patch.zip",
+      "checksumSha256": "f625cfe9681f338026070c50f79d95b82ed73481e93f4632a363b021db4a056b",
+      "deleted": [
+        "mods/steves_army-0.6.1-custom.jar"
+      ],
+      "sizeBytes": 2808293
+    },
     "packId": "pack:cbbb86a5-06bf-44f4-acd5-71e543f61d90"
   },
   "backgroundImageUrl": "https://raw.githubusercontent.com/customlauncher700-debug/modpack/main/background-main.png?v=1786966199",
