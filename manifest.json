@@ -7,20 +7,20 @@
     "displayName": "러노우 모드팩",
     "iconUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v26/icon.jpg",
     "downloadUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v26/modpack.zip",
-    "checksumSha256": "1ec61b225c5c559154d0c3d8b0a9c7e3d526a02804af9e3ff1d336c98120e210",
+    "checksumSha256": "176199dce32c9d7aa5529e3e710f5ba6e107644b54dddea2491bc0701661ad20",
     "minecraftVersion": "1.20.1",
     "loader": "forge",
     "loaderVersion": "47.4.28",
     "recommendedRamMb": 6000,
-    "displayVersion": "26-5",
+    "displayVersion": "26-6",
     "patch": {
-      "base": "26-4",
+      "base": "26-5",
       "downloadUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v26/patch.zip",
-      "checksumSha256": "7d7c44478bf9cab8a75cc7533c31dfebeb2650b59762d43e39fb5dc3ef4b953d",
+      "checksumSha256": "2cd68517037497fb67b3c4b7e8b7a2549916826d040060e7f21f8d71ffb34920",
       "deleted": [
-        "mods/BAZVillageMarket-1.20.1-0.12.0.jar"
+        "mods/simpleenemymod-1.20.1-0.1.6-beta-hotfix.jar"
       ],
-      "sizeBytes": 322054
+      "sizeBytes": 2790510
     },
     "packId": "pack:cbbb86a5-06bf-44f4-acd5-71e543f61d90"
   },
