@@ -7,20 +7,20 @@
     "displayName": "러노우 모드팩",
     "iconUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v26/icon.jpg",
     "downloadUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v26/modpack.zip",
-    "checksumSha256": "96bfbcce2bf30543b465bb56803665bc8820a065b28358b85ea06c9659793d60",
+    "checksumSha256": "15c7d70706abb7aea4a50c60afe1d38d5d961c75cf7c8a565e421c0006189d03",
     "minecraftVersion": "1.20.1",
     "loader": "forge",
     "loaderVersion": "47.4.28",
     "recommendedRamMb": 6000,
-    "displayVersion": "26-8",
+    "displayVersion": "26-9",
     "patch": {
-      "base": "26-7",
+      "base": "26-8",
       "downloadUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v26/patch.zip",
-      "checksumSha256": "f625cfe9681f338026070c50f79d95b82ed73481e93f4632a363b021db4a056b",
+      "checksumSha256": "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85",
       "deleted": [
-        "mods/steves_army-0.6.1-custom.jar"
+        "mods/betterzombieai-54-forge-1.20.1.jar"
       ],
-      "sizeBytes": 2808293
+      "sizeBytes": 22
     },
     "packId": "pack:cbbb86a5-06bf-44f4-acd5-71e543f61d90"
   },
