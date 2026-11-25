@@ -88,7 +88,14 @@
     }
   ],
   "lastModpackVersion": 26,
-  "bannedAccounts": [],
+  "bannedAccounts": [
+    {
+      "uuidHash": "e755ab8a1538072f7c64771ffb8570d24d7fba97ae9aba2c34aa6325882a1f15",
+      "scope": "full",
+      "reason": "디스코드에서 부적절한 초대 링크 전송 및 러노우님 비하",
+      "bannedAt": "2026-11-25T12:38:12.848411300+00:00"
+    }
+  ],
   "adminUuids": [
     "849bc19dff4b4322841a951727988b77",
     "5158c62bb67d4c34b6f3e7418963b533"
