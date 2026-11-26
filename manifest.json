@@ -7,20 +7,20 @@
     "displayName": "러노우 모드팩",
     "iconUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v26/icon.jpg",
     "downloadUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v26/modpack.zip",
-    "checksumSha256": "197c70f16f64ed8ebb3a580ab67a981f34c17287da79a933697fab393dd1122a",
+    "checksumSha256": "0a29f1a7066121502094e84ea4df6ea0cf55c36dc93a239a8eaa24f0c761d3e3",
     "minecraftVersion": "1.20.1",
     "loader": "forge",
     "loaderVersion": "47.4.28",
     "recommendedRamMb": 6000,
-    "displayVersion": "26-12",
+    "displayVersion": "26-13",
     "patch": {
-      "base": "26-11",
+      "base": "26-12",
       "downloadUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v26/patch.zip",
-      "checksumSha256": "d4d11200dd0c3adc077968c06e937d2a7130a8856893f9588e27a5791a56270b",
+      "checksumSha256": "8eddaadbe06512c9258692c6dd1535194d5af38f6e32000c9c36a9268e2f6df9",
       "deleted": [
-        "tacz/Valorant_gunpack_v0.1.7.zip"
+        "mods/BAZNickCustomForge-22.jar"
       ],
-      "sizeBytes": 8537655
+      "sizeBytes": 554089
     },
     "packId": "pack:cbbb86a5-06bf-44f4-acd5-71e543f61d90"
   },
