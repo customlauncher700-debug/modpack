@@ -7,13 +7,21 @@
     "displayName": "러노우 모드팩",
     "iconUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v26/icon.jpg",
     "downloadUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v26/modpack.zip",
-    "checksumSha256": "17929c323b5ddb19f7a8d9bb4b6f9e99517660edef4fa929aa81cdf3f8cc84ea",
+    "checksumSha256": "36e89d4b1550d34270d87bfef9146c05ed831e4096f3e0994eb3943bc6198704",
     "minecraftVersion": "1.20.1",
     "loader": "forge",
     "loaderVersion": "47.4.28",
     "recommendedRamMb": 6000,
-    "displayVersion": "26-14",
-    "patch": null,
+    "displayVersion": "26-15",
+    "patch": {
+      "base": "26-14",
+      "downloadUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v26/patch.zip",
+      "checksumSha256": "0fa47e8b27ac734b56ff91671ae079ce465ac481b3eb31711b169ee652ce7c5a",
+      "deleted": [
+        "mods/BAZNickCustomForge-28.jar"
+      ],
+      "sizeBytes": 554453
+    },
     "packId": "pack:cbbb86a5-06bf-44f4-acd5-71e543f61d90"
   },
   "backgroundImageUrl": "https://raw.githubusercontent.com/customlauncher700-debug/modpack/main/background-main.png?v=1786966199",
