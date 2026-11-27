@@ -27,6 +27,12 @@
   "backgroundImageUrl": "https://raw.githubusercontent.com/customlauncher700-debug/modpack/main/background-main.png?v=1786966199",
   "notices": [
     {
+      "id": "e07fc019-3136-442d-81ac-98222a71a93b",
+      "title": "개발공지",
+      "body": "게임 설정 유지 기능 추가",
+      "createdAt": "2026-11-27T10:32:34.149439200+00:00"
+    },
+    {
       "id": "de3b2351-3104-46d6-be3e-a251a995ffdc",
       "title": "개발공지",
       "body": "다운로드 버그 수정 및 최적화",
