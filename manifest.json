@@ -7,20 +7,21 @@
     "displayName": "러노우 모드팩",
     "iconUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v26/icon.jpg",
     "downloadUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v26/modpack.zip",
-    "checksumSha256": "36e89d4b1550d34270d87bfef9146c05ed831e4096f3e0994eb3943bc6198704",
+    "checksumSha256": "51183782226a8cba855ea05e0d90e82c6a9969d992572fdd7409b2d6c7bbd356",
     "minecraftVersion": "1.20.1",
     "loader": "forge",
     "loaderVersion": "47.4.28",
     "recommendedRamMb": 6000,
-    "displayVersion": "26-15",
+    "displayVersion": "26-16",
     "patch": {
-      "base": "26-14",
+      "base": "26-15",
       "downloadUrl": "https://github.com/customlauncher700-debug/modpack/releases/download/modpack-v26/patch.zip",
-      "checksumSha256": "0fa47e8b27ac734b56ff91671ae079ce465ac481b3eb31711b169ee652ce7c5a",
+      "checksumSha256": "5d0d1f3b59831551303b065bf2841f1af82dfcba927cf49c8c6ac70a75b0c401",
       "deleted": [
-        "mods/BAZNickCustomForge-28.jar"
+        "mods/BAZNickCustomForge-29.jar",
+        "mods/mc-talkie-0.1.3+1.20.1.jar"
       ],
-      "sizeBytes": 554453
+      "sizeBytes": 744868
     },
     "packId": "pack:cbbb86a5-06bf-44f4-acd5-71e543f61d90"
   },
